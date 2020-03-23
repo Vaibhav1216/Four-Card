@@ -1,0 +1,107 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+
+  background-color: hsl(0, 0%, 98%);
+}
+h2{
+  font-weight: 600;
+  font-size: 17px;
+
+}
+p{
+  font-size: 14px;
+}
+.intro{
+  width:35%;
+  margin: 20px auto;
+  text-align: center;
+}
+.heading{
+  font-weight: normal;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.sub-heading{
+  font-weight: 900;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.team-builder{
+  margin-top: 50px;
+  height: 230px;
+  width: 300px;
+  background-color: #FFFFFF;
+  position: absolute;
+  left: 500px;
+}
+.supervisor{
+  height: 230px;
+  width: 300px;
+  background-color: #FFFFFF;
+  position: absolute;
+  left: 170px;
+  top: 450px;
+}
+.calculator{
+  height: 230px;
+  width: 300px;
+  background-color: #FFFFFF;
+  position: absolute;
+  top: 450px;
+  right: 218px;
+}
+.karma{
+  height: 230px;
+  width: 300px;
+  background-color: #FFFFFF;
+  margin-bottom: 50px;
+  position: absolute;
+  top: 505px;
+  left: 500px;
+}
+.img{
+  position:absolute;
+  top: 130px;
+  right:20px;
+}
+
+.text{
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  margin: 0 auto;
+}
+
+.head{
+  position:absolute;
+  top: 13px;
+  left: 20px;
+  margin: 0 auto;
+}
+.red{
+  background-color: red;
+  height: 4px;
+  width: 300px;
+  border-radius: 50%;
+}
+.cyan{
+  background-color: cyan;
+  height: 4px;
+  width: 300px;
+  border-radius: 50%;
+}
+.blue{
+  background-color: blue;
+  height: 4px;
+  width: 300px;
+  border-radius: 50%;
+}
+.orange{
+  background-color: orange;
+  height: 4px;
+  width: 300px;
+  border-radius: 50%;
+}
